@@ -13,12 +13,6 @@
   </url>
   
   <url>
-    <loc>https://sylphs22.github.io/unknown-prior/</loc>
-    <lastmod>2018-05-26T21:10:39+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sylphs22.github.io/unknown-prior/posts/</loc>
     <lastmod>2018-05-26T21:10:39+05:30</lastmod>
     <priority>0</priority>
@@ -26,6 +20,12 @@
   
   <url>
     <loc>https://sylphs22.github.io/unknown-prior/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sylphs22.github.io/unknown-prior/</loc>
+    <lastmod>2018-05-26T21:10:39+05:30</lastmod>
     <priority>0</priority>
   </url>
   
