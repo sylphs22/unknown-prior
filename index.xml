@@ -6,10 +6,22 @@
     <description>Recent content on learning priors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 May 2018 21:10:39 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 26 May 2018 21:40:41 +0530</lastBuildDate>
     
 	<atom:link href="https://sylphs22.github.io/unknown-prior/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>https://sylphs22.github.io/unknown-prior/posts/resume/</link>
+      <pubDate>Sat, 26 May 2018 21:40:41 +0530</pubDate>
+      
+      <guid>https://sylphs22.github.io/unknown-prior/posts/resume/</guid>
+      <description>Bipul Kumar  In this style, the resume starts with a blockquote, where you can briefly list your specialties, or include a salient quote. Ending a line with a backslash forces a line break.
+ Education  2012-2018 PhD, Operations and decision sciences; Indian Institute of Management,Ranchi
+*Thesis title: Developing Optimization Models for Dyadic Prediction in the Context of Sparse Data *
+ 2007-2010 BTech, Electrical and Electronics Engineering; SRM University, Chennai</description>
+    </item>
     
     <item>
       <title>helloWorld</title>
